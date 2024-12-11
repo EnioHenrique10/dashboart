@@ -1,3 +1,5 @@
+Criei um dashboard usando Next.js e a biblioteca ShadCN/UI. Achei o ShadCN/UI extremamente útil, pois oferece várias opções e componentes prontos para criar interfaces de sites, como dashboards, de forma rápida e prática.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
